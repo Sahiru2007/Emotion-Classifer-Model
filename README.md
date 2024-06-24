@@ -1,4 +1,3 @@
-It seems there was an internal error processing the notebook file. However, I can still provide a detailed README.md based on typical steps and procedures involved in an emotion classifier model using the given dataset.
 
 ---
 
